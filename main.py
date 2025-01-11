@@ -5,10 +5,10 @@ class user:
         self.password = password
 
 users = [
-    user('Ayrton','ayrton@gmail.com','tt1'),
-    user('Luiz','teste1@gmail.com','tt2'),
-    user('Amanda','teste2@gmail.com','tt3'),
-    user('Ana Clara','teste3@gmail.com','tt4'),
+    user('Alisson','teste0@gmail.com','tt0'),
+    user('Luiz','teste1@gmail.com','tt1'),
+    user('Amanda','teste2@gmail.com','tt2'),
+    user('Ana Clara','teste3@gmail.com','tt3'),
 ]
 
 def getlogin():
